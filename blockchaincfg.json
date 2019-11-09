@@ -1,0 +1,22 @@
+{
+    "alternativeEstimateFee": "whatthefee-disabled",
+    "alternativeEstimateFeeParams": "{\"url\": \"https://whatthefee.io/data.json\", \"periodSeconds\": 60}",
+    "coin_name": "Sinovate",
+    "coin_shortcut": "SIN",
+    "coin_label": "Sinovate",
+    "rpc_url": "http://@RPC_HOST@:20971",
+    "rpc_user": "@RPC_USER@",
+    "rpc_pass": "@RPC_PASS@",
+    "rpc_timeout": 25,
+    "parse": true,
+    "message_queue_binding": "tcp://@RPC_HOST@:@MQ_PORT@",
+    "subversion": "",
+    "address_format": "",
+    "xpub_magic": 76067358,
+    "xpub_magic_segwit_p2sh": 77429938,
+    "xpub_magic_segwit_native": 78792518,
+
+    "mempool_workers": 8,
+    "mempool_sub_workers": 2,
+    "block_addresses_to_keep": 300
+}
