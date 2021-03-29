@@ -1,3 +1,6 @@
+## NOTE: sinteam/blockbook github didnt exist atm. 
+
+
 # Blockbook Docker
 
 Docker container for Blockbook, the Trezor wallet backend.
